@@ -1,0 +1,56 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch QueTest",
+            "request": "launch",
+            "mainClass": "que.QueTest",
+            "projectName": "91algo_48fc3671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackTest",
+            "request": "launch",
+            "mainClass": "stack.StackTest",
+            "projectName": "91algo_48fc3671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "91algo_48fc3671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "91algo_48fc3671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "MergeArray",
+            "projectName": "91algo_48fc3671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThirdLargestNum",
+            "request": "launch",
+            "mainClass": "ThirdLargestNum",
+            "projectName": "91algo_48fc3671"
+        }
+    ]
+}
